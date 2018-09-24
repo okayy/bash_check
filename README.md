@@ -1,4 +1,4 @@
-# bash_check
+# bash_check_postgre
 You can use this check to compare values from the database with critical values.
 
 Usage: $0 [-q <query>] [-c <critical>] [-u]
